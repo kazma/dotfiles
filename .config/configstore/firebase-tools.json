@@ -1,0 +1,38 @@
+{
+	"analytics-uuid": "182605d2-8bef-4339-8e7b-2202992b6b74",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1513232835252,
+	"usage": true,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "113103426594099454382",
+		"email": "kazu.ww@gmail.com",
+		"email_verified": true,
+		"at_hash": "rqUbPv6_nCFINQILIANwlA",
+		"iss": "accounts.google.com",
+		"iat": 1513232855,
+		"exp": 1513236455
+	},
+	"tokens": {
+		"expires_at": 1513242220716,
+		"refresh_token": "1/-YMVDL14CBZrF0U_lm371bfCl2OeWmPrWTI8l_h5b0U",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.GlsiBTxJL3hZxpgQy-Xi80lga0f12eA4UfUeMlOmS66J3iFZKeRj2aPmJduZceRFG46dGa66s-NpcGOgBsr_Z2zhPpG6IWRxBnVbFQsBdRofJFjS4hHgH4mAHau4",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjVjZDU1MjY0NTdjOTAxZDdiY2FlYWI5NGFhMzFhNDcyN2M3ZTYyYjMifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTMxMDM0MjY1OTQwOTk0NTQzODIiLCJlbWFpbCI6ImthenUud3dAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ5VWhCZHdxRHFaV2Zmd1NsRGVWMExBIiwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUxMzIzODYyMCwiZXhwIjoxNTEzMjQyMjIwfQ.nhOy6pzAHjQUWkcw-cLdckuKsYqVgPSDFV_X3dZSZY5iihhQzOSCjR3ziHJZ5l24GGuG8WPl28U-Kpj0ipwgokadAFWPjMJEM8CexmvgU3u4BYKfv8Vk3RnyQVCWK3PET95-RFAjvvjn6N-HZs2YAqRRIgPN5-hDtmAWqxWkDKIOShphOcjOIzlM_JsLH2p8tvCBs-Xlx0XyoewBmF1STWMTQ3NEZQnDo6h3g-mNsLIU9IQeeuH6tv8yj3XYbubwDZsXxmDwZHTdZ2e_lpFpDK1K_ZefeSp-JXKSoeZh7kaBNX54m7tzq5zGtX5AyiyGnJRGZKTW7KRRGzWEAjeiuw"
+	},
+	"activeProjects": {
+		"/Users/kaz/Development/firebase_test": "chat-test-f9a17",
+		"/Users/kaz/Development/chat": "demo"
+	}
+}

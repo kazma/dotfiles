@@ -1,0 +1,114 @@
+# Recent settings file for Wireshark 2.2.7.
+#
+# This file is regenerated each time Wireshark is quit.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /Users/kaz/Documents/7000_pcap/winopcua.pcapng
+recent.capture_file: /Users/kaz/Documents/7000_pcap/mqtt_traffic.pcapng
+recent.capture_file: /Users/kaz/Documents/3000_fh/azure/azure.pcap
+recent.capture_file: /Users/kaz/Downloads/rextest.pcap
+recent.capture_file: /Users/kaz/Downloads/rextest2.pcap
+recent.capture_file: /Users/kaz/Downloads/test.pcap
+recent.capture_file: /Users/kaz/Downloads/data_publisher.log.pcap
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: (ip.src_host  == 172.18.0.6) && (http.request.method == "POST")
+recent.display_filter: ip.src
+recent.display_filter: ip.src_host  == 172.18.0.6
+recent.display_filter: ip.host == 172.18.0.6
+recent.display_filter: ip.host == 172.18.0.8
+recent.display_filter: ip.addr == 10.10.1.95
+recent.display_filter: amqp
+recent.display_filter: ip.host == 10.10.1.95
+recent.display_filter: tcp.port == 5672
+recent.display_filter: ip.host == 10.10.1.205
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 0
+gui.geometry_main_y: 0
+gui.gtk.geometry_main_x: 20
+gui.gtk.geometry_main_y: 20
+gui.geometry_main_width: 1680
+gui.geometry_main_height: 1050
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Geometry and maximized state of PreferencesDialog window.
+# Decimal integers.
+gui.geom.PreferencesDialog.x: 380
+gui.geom.PreferencesDialog.y: 179
+gui.geom.PreferencesDialog.width: 794
+gui.geom.PreferencesDialog.height: 475
+# TRUE or FALSE (case-insensitive).
+gui.geom.PreferencesDialog.maximized: FALSE
+
+# Geometry and maximized state of ProfileDialog window.
+# Decimal integers.
+gui.geom.ProfileDialog.x: 485
+gui.geom.ProfileDialog.y: 257
+gui.geom.ProfileDialog.width: 470
+gui.geom.ProfileDialog.height: 300
+# TRUE or FALSE (case-insensitive).
+gui.geom.ProfileDialog.maximized: FALSE
+
+# Geometry and maximized state of IOGraphDialog window.
+# Decimal integers.
+gui.geom.IOGraphDialog.x: 0
+gui.geom.IOGraphDialog.y: 0
+gui.geom.IOGraphDialog.width: 1440
+gui.geom.IOGraphDialog.height: 900
+# TRUE or FALSE (case-insensitive).
+gui.geom.IOGraphDialog.maximized: TRUE
+
+# Geometry and maximized state of DecodeAsDialog window.
+# Decimal integers.
+gui.geom.DecodeAsDialog.x: 345
+gui.geom.DecodeAsDialog.y: 198
+gui.geom.DecodeAsDialog.width: 750
+gui.geom.DecodeAsDialog.height: 460
+# TRUE or FALSE (case-insensitive).
+gui.geom.DecodeAsDialog.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"
